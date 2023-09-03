@@ -1,3 +1,4 @@
 # fundamentals-Vue.js
 lessons about vuejs 3
-![image](https://github.com/Diler22SS/Vue.js-3-TODO/assets/116864243/7db1c712-0c5a-4ce4-90a0-d593efa07613)
+
+![Список дел](https://github.com/Diler22SS/Vue.js-3-TODO/assets/116864243/bd17bab1-df36-45aa-8a0e-db842f535677)
